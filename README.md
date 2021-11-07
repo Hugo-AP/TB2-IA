@@ -1,2 +1,5 @@
 # TB2-IA
-Tb2
+Integrantes:
+- Hugo Arauco
+- Pablo Tejada
+- Jose Moreno
