@@ -77,7 +77,7 @@ app = Flask(__name__)
 @app.route('/')
 @app.route('/home')
 def home_page():
-    # training_neuron()
+    training_neuron()
     return render_template('home.html')
 
 
